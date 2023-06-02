@@ -22,7 +22,7 @@ title: Stone Quarry Pomskies
 email: StoneQuarryPomskies@Gmail.com
 description: "The most adorable little pomskies (pomeranian + husky) puppies this side of the Mississippi! Located in centeral Flordia"
 domain: "mcninja.github.io"
-baseurl: "www.sqp.dog" # the subpath of your site, e.g. /blog
+baseurl: "sqp.dog" # the subpath of your site, e.g. /blog
 url: "http://sqp.dog" # the base hostname & protocol for your site, e.g. http://example.com
 youtube_username: SQP.Dog
 twitter_username: SQP.Dog
