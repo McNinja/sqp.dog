@@ -24,7 +24,7 @@ description: "The most adorable little pomskies (pomeranian + husky) puppies thi
 domain: "mcninja.github.io"
 baseurl: "sqp.dog" # the subpath of your site, e.g. /blog
 url: "http://sqp.dog" # the base hostname & protocol for your site, e.g. http://example.com
-youtube_username: SQPDog
+youtube_username: "@SQPDog"
 twitter_username: SQPDog
 
 # Build settings
