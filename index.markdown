@@ -29,7 +29,7 @@ Parents
 Current Litter - Born 04/26/2023
 </h1>
 
-These little bundles of cuteness were born on 26 April 2023. We currently have 4 girls and one boy looking for a new and loving home.
+These little bundles of cuteness were born on 26 April 2023. We currently have 4 girls and 1 boy looking for a new and loving home.
 
 ## Zues
 Male - Wooly Coat - Double Blue Eyes  
