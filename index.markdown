@@ -29,18 +29,14 @@ Parents
 Current Litter - Born 04/26/2023
 </h1>
 
-These little bundles of cuteness were born on 26 April 2023. We currently have 5 girls and one boy looking for a new and loving home.
+These little bundles of cuteness were born on 26 April 2023. We currently have 4 girls and one boy looking for a new and loving home.
 
 ## Zues
 Male - Wooly Coat - Double Blue Eyes  
 ![Zues](/assets/img/boy.zues.jpg)
 
-## Persephone
-Female - Wooly Coat - Double Blue Eyes  
-![Persephone](/assets/img/girl.persephone.jpg)
-
 ## Gaia
-Female - Wooly Coat - Double Blue Eyes  
+Female - Wooly Coat - One Blue & One Amber Eye  
 ![Gaia](/assets/img/girl.red.gaia.jpg)
 
 ## Hera
@@ -48,7 +44,7 @@ Female - Wooly Coat - Double Blue Eyes
 ![Hera](/assets/img/girl.blue.hera.jpg)
 
 ## Aphrodite
-Female - Wooly Coat - Double Blue Eyes  
+Female - Wooly Coat - Double Amber Eyes  
 ![Aphrodite](/assets/img/girl.pink.aphrodite.jpg)
 
 ## Artemis
