@@ -37,7 +37,7 @@ Female - Wooly Coat - One Blue & One Amber Eye
 
 ## Hera
 Female - Wooly Coat - Double Blue Eyes  
-![Hera](/assets/img/girl.blue.hera.jpg)  
+![Hera](/assets/img/Hera-01.jpg)  
 
 ## Aphrodite
 Female - Wooly Coat - Double Amber Eyes  
