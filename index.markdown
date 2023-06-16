@@ -34,7 +34,6 @@ These little bundles of cuteness were born on 26 April 2023. We currently have 3
 ## Gaia
 Female - Wooly Coat - One Blue & One Amber Eye  
 ![Gaia1](/assets/img/Gaia-01.jpg)  
-![Gaia2](/assets/img/Gaia-02.jpg)  
 
 ## Hera
 Female - Wooly Coat - Double Blue Eyes  
