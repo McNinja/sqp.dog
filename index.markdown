@@ -29,11 +29,7 @@ Parents
 Current Litter - Born 04/26/2023
 </h1>
 
-These little bundles of cuteness were born on 26 April 2023. We currently have 3 girls and 1 boy looking for a new and loving home.
-
-## Zues
-Male - Wooly Coat - Double Blue Eyes  
-![Zues](/assets/img/girl.red.gaia.jpg)
+These little bundles of cuteness were born on 26 April 2023. We currently have 3 girls looking for a new and loving home.
 
 ## Gaia
 Female - Wooly Coat - One Blue & One Amber Eye  
