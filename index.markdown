@@ -33,11 +33,11 @@ These little bundles of cuteness were born on 26 April 2023. We currently have 4
 
 ## Zues
 Male - Wooly Coat - Double Blue Eyes  
-![Zues](/assets/img/boy.zues.jpg)
+![Zues](/assets/img/girl.red.gaia.jpg)
 
 ## Gaia
 Female - Wooly Coat - One Blue & One Amber Eye  
-![Gaia](/assets/img/girl.red.gaia.jpg)
+![Gaia](/assets/img/boy.zues.jpg)
 
 ## Hera
 Female - Wooly Coat - Double Blue Eyes  
@@ -47,9 +47,6 @@ Female - Wooly Coat - Double Blue Eyes
 Female - Wooly Coat - Double Amber Eyes  
 ![Aphrodite](/assets/img/girl.pink.aphrodite.jpg)
 
-## Artemis
-Female - Wooly Coat - Double Blue Eyes  
-![Artemis](/assets/img/girl.nocollar.artemis.jpg)
 
 <h1 style="text-align: center;">
 Re-Homing Information
