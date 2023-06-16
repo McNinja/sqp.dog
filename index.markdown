@@ -42,7 +42,6 @@ Female - Wooly Coat - Double Blue Eyes
 ## Aphrodite
 Female - Wooly Coat - Double Amber Eyes  
 ![Aphrodite1](/assets/img/Aphrodite-01.jpg)  
-![Aphrodite2](/assets/img/Aphrodite-02.jpg)  
 
 
 <h1 style="text-align: center;">
