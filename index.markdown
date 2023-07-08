@@ -31,11 +31,6 @@ Current Litter - Born 04/26/2023
 
 These little bundles of cuteness were born on 26 April 2023. We currently have 3 girls looking for a new and loving home.
 
-## Gaia
-Female - Wooly Coat - One Blue & One Amber Eye  
-![Gaia0](/assets/img/OddEyeGirl.jpg)   
-![Gaia1](/assets/img/Gaia-01.jpg)  
-
 ## Hera
 Female - Wooly Coat - Double Blue Eyes  
 ![Hera0](/assets/img/BlueEyeGirl.jpg)  
