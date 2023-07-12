@@ -36,11 +36,6 @@ Female - Wooly Coat - Double Blue Eyes
 ![Hera0](/assets/img/BlueEyeGirl.jpg)  
 ![Hera1](/assets/img/Hera-01.jpg)  
 
-## Aphrodite
-Female - Wooly Coat - Double Amber Eyes  
-![Aphrodite0](/assets/img/BrownEyeGirl.jpg)  
-![Aphrodite1](/assets/img/Aphrodite-01.jpg)  
-
 
 <h1 style="text-align: center;">
 Re-Homing Information
