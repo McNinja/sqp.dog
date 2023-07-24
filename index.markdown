@@ -26,15 +26,10 @@ Parents
 **Genetic Test**: Embark genetic tested for over 150 possible conditions and breed. F3  
 
 <h1 style="text-align: center;">
-Current Litter - Born 04/26/2023
+WaitList  
 </h1>
 
-These little bundles of cuteness were born on 26 April 2023. We currently have 3 girls looking for a new and loving home.
-
-## Hera
-Female - Wooly Coat - Double Blue Eyes  
-![Hera0](/assets/img/BlueEyeGirl.jpg)  
-![Hera1](/assets/img/Hera-01.jpg)  
+Reach out if you would like to be added to our waitlist for the next litter  
 
 
 <h1 style="text-align: center;">
