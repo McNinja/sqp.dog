@@ -26,10 +26,26 @@ Parents
 **Genetic Test**: Embark genetic tested for over 150 possible conditions and breed. F3  
 
 <h1 style="text-align: center;">
-WaitList  
+Current Litter - Born 01/01/2024
 </h1>
 
-Reach out if you would like to be added to our waitlist for the next litter  
+These little bundles of cuteness were born on January 1st 2024. We currently have 3 girls and 2 boys looking for a new and loving home.
+
+## Saturn - Boy  
+![Saturn](/assets/img/012024/SaturnBoy.jpg)  
+
+## Mars - Boy  
+![Mars](/assets/img/012024/MarsBoy.jpg)  
+
+## Jupiter - Girl  
+![Jupiter](/assets/img/012024/Jupiter.jpg)  
+
+## Pluto - Girl  
+![Pluto](/assets/img/012024/Pluto.jpg)  
+
+## Venus - Girl  
+![Venus](/assets/img/012024/Venus.jpg)  
+
 
 
 <h1 style="text-align: center;">
@@ -40,7 +56,7 @@ Video chat available, yes we're real!
 Health guarantee  
 [Download our application form][1] / or we can email it to you  
 
-[1]:{{ site.url }}/assets/docs/SQP-Puppy-Application.docx
+[1]:{{ site.url }}assets/docs/SQP-Puppy-Application.docx
 
 
 <h1 style="text-align: center;">
@@ -50,5 +66,11 @@ Contact Us
 **Email**: [StoneQuarryPomskies@Gmail.com](mailto:StoneQuarryPomskies@Gmail.com)  
 **Cell**: 727-776-5186 (Text preferred)  
 **Location**: Centeral Flordia near Tampa  
+
+<h1 style="text-align: center;">
+WaitList  
+</h1>
+
+Reach out if you would like to be added to our waitlist for the next litter  
 
 {% seo %}
