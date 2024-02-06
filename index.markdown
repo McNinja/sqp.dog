@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Stone Quarry Pomskies](/assets/img/pebs-banner-cropped.jpg)
+![Stone Quarry Pomskies](/assets/main/pebs-banner-cropped.jpg)
 
 The most adorable little puppies this side of the Mississippi! 
 
@@ -12,13 +12,13 @@ The most adorable little puppies this side of the Mississippi!
 Parents
 </h1>
 
-![Mother](/assets/img/pebs-mother.jpg)  
+![Mother](/assets/main/pebs-mother.jpg)  
 **Mother**: StoneQuarry Larimar Blue  
 **Weight**: 24 Pounds  
 **Bio**: Full husky personality in a tiny package. Loves pets, will paw you for more. Parkour champ.  
 **Genetic Test**: Embark genetic tested for over 150 possible conditions and breed. F2X  
 
-![Father](/assets/img/bolder-father.jpg)  
+![Father](/assets/main/bolder-father.jpg)  
 **Father**: StoneQuarry Colorado Bolder Blue  
 **Weight**: 14 Pounds  
 **Bio**: Pomeranian in a husky suit. Would rather live in your lap rather than anywhere else.  
