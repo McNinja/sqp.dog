@@ -52,11 +52,11 @@ These little bundles of cuteness were born on January 1st 2024. We currently hav
 Re-Homing Information
 </h1>
 
-Video chat available, yes we're real!  
+Video chat is available!  
 Health guarantee  
 [Download our application form][1] / or we can email it to you  
 
-[1]:{{ site.url }}assets/docs/SQP-Puppy-Application.docx
+[1]:{{ site.url }}/assets/docs/SQP-Puppy-Application.docx
 
 
 <h1 style="text-align: center;">
@@ -65,7 +65,7 @@ Contact Us
 
 **Email**: [StoneQuarryPomskies@Gmail.com](mailto:StoneQuarryPomskies@Gmail.com)  
 **Cell**: 727-776-5186 (Text preferred)  
-**Location**: Centeral Flordia near Tampa  
+**Location**: Centeral Flordia, North Of Tampa  
 
 <h1 style="text-align: center;">
 WaitList  
