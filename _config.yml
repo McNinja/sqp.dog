@@ -26,6 +26,7 @@ baseurl: "sqp.dog" # the subpath of your site, e.g. /blog
 url: "http://sqp.dog" # the base hostname & protocol for your site, e.g. http://example.com
 youtube_username: "@SQPDog"
 twitter_username: SQPDog
+google_analytics: G-6RCBD7DHLK
 
 # Build settings
 theme: minima
