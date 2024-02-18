@@ -59,7 +59,7 @@ These little bundles of cuteness were born on January 1st 2024. We currently hav
 
 ## Venus - Girl  
 ![Venus](/assets/img/012024/Venus.jpg)  
-![Venus](/assets/img/012024/VenusVday.JPG
+![Venus](/assets/img/012024/VenusVday.JPG)  
 
 
 --- 
