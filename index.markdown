@@ -29,36 +29,40 @@ Parents
 Current Litter - Born 01/01/2024
 </h1>
 
-These little bundles of cuteness were born on January 1st 2024. We currently have 3 girls and 2 boys looking for a new and loving home.
+These little bundles of cuteness were born on January 1st 2024. We currently have 3 girls and 2 boys looking for a new and loving home.  
+
+---
 
 ## Saturn - Boy  
 ![Saturn](/assets/img/012024/SaturnBoy.jpg)  
-![Saturn](/assets/img/012024/SaturnVday.jpg)  
+![Saturn](/assets/img/012024/SaturnVday.JPG)  
 
 ---
 
 ## Mars - Boy  
 ![Mars](/assets/img/012024/MarsBoy.jpg)  
-![Mars](/assets/img/012024/MarsVday.jpg)  
+![Mars](/assets/img/012024/MarsVday.JPG)  
 
 ---
 
 ## Jupiter - Girl  
 ![Jupiter](/assets/img/012024/Jupiter.jpg)  
-![Jupiter](/assets/img/012024/JupiterVday.jpg)    
+![Jupiter](/assets/img/012024/JupiterVday.JPG)    
 
 ---
 
 ## Pluto - Girl  
 ![Pluto](/assets/img/012024/Pluto.jpg)  
-![Pluto](/assets/img/012024/PlutoVday.jpg) 
+![Pluto](/assets/img/012024/PlutoVday.JPG) 
 
 ---
 
 ## Venus - Girl  
 ![Venus](/assets/img/012024/Venus.jpg)  
-![Venus](/assets/img/012024/VenusVday.jpg)  
+![Venus](/assets/img/012024/VenusVday.JPG
 
+
+--- 
 
 
 <h1 style="text-align: center;">
