@@ -29,7 +29,7 @@ Parents
 Current Litter - Born 01/01/2024
 </h1>
 
-These little bundles of cuteness were born on January 1st 2024. We currently have 3 girls and 2 boys looking for a new and loving home.  
+These little bundles of cuteness were born on January 1st 2024. We currently have 2 girls and 2 boys looking for a new and loving home.  
 
 ---
 
@@ -56,13 +56,6 @@ These little bundles of cuteness were born on January 1st 2024. We currently hav
 ![Pluto](/assets/img/012024/PlutoVday.JPG) 
 
 ---
-
-## Venus - Girl  
-![Venus](/assets/img/012024/Venus.jpg)  
-![Venus](/assets/img/012024/VenusVday.JPG)  
-
-
---- 
 
 
 <h1 style="text-align: center;">
