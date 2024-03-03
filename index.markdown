@@ -39,12 +39,6 @@ These little bundles of cuteness were born on January 1st 2024. We currently hav
 
 ---
 
-## Mars - Boy  
-![Mars](/assets/img/012024/Mars.jpeg)  
-![Mars](/assets/img/012024/MarsN.jpeg)  
-
----
-
 ## Jupiter - Girl  
 ![Jupiter](/assets/img/012024/Jupiter.jpeg)  
 ![Jupiter](/assets/img/012024/JupiterN.jpeg)  
