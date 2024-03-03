@@ -51,12 +51,6 @@ These little bundles of cuteness were born on January 1st 2024. We currently hav
 
 ---
 
-## Pluto - Girl  
-![Pluto](/assets/img/012024/Pluto.jpg)  
-![Pluto](/assets/img/012024/PlutoVday.JPG) 
-
----
-
 
 <h1 style="text-align: center;">
 Re-Homing Information
