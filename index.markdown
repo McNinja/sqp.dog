@@ -34,20 +34,17 @@ These little bundles of cuteness were born on January 1st 2024. We currently hav
 ---
 
 ## Saturn - Boy  
-![Saturn](/assets/img/012024/SaturnBoy.jpg)  
-![Saturn](/assets/img/012024/SaturnVday.JPG)  
+![Saturn](/assets/img/012024/Saturn.jpeg) 
 
 ---
 
 ## Mars - Boy  
-![Mars](/assets/img/012024/MarsBoy.jpg)  
-![Mars](/assets/img/012024/MarsVday.JPG)  
+![Mars](/assets/img/012024/Mars.jpeg)  
 
 ---
 
 ## Jupiter - Girl  
-![Jupiter](/assets/img/012024/Jupiter.jpg)  
-![Jupiter](/assets/img/012024/JupiterVday.JPG)    
+![Jupiter](/assets/img/012024/Jupiter.jpeg)  
 
 ---
 
