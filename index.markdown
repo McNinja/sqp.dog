@@ -39,12 +39,6 @@ These little bundles of cuteness were born on January 1st 2024. We currently hav
 
 ---
 
-## Jupiter - Girl  
-![Jupiter](/assets/img/012024/Jupiter.jpeg)  
-![Jupiter](/assets/img/012024/JupiterN.jpeg)  
-
----
-
 
 <h1 style="text-align: center;">
 Re-Homing Information
