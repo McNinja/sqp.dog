@@ -25,17 +25,6 @@ Parents
 **Theme song**: You look cuter with something in your mouth (He loves carrying anything around in his mouth as he prances around)    
 **Genetic Test**: Embark genetic tested for over 150 possible conditions and breed. F3  
 
-<h1 style="text-align: center;">
-Current Litter - Born 01/01/2024
-</h1>
-
-These little bundles of cuteness were born on January 1st 2024. We currently have 2 girls and 2 boys looking for a new and loving home.  
-
----
-
-## Saturn - Boy  
-![Saturn](/assets/img/012024/Saturn.jpeg) 
-![Saturn](/assets/img/012024/SaturnN.jpeg) 
 
 ---
 
