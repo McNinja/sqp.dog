@@ -25,6 +25,39 @@ Parents
 **Theme song**: You look cuter with something in your mouth (He loves carrying anything around in his mouth as he prances around)    
 **Genetic Test**: Embark genetic tested for over 150 possible conditions and breed. F3  
 
+---
+
+These adorable bundles of cuteness were born on September 16th. We currently have 2 boys and 4 girls looking for their forever homes. 
+
+---
+
+## Harold - Boy  
+![Harold](/assets/img/09162024/Harold/Harold.jpeg)  
+
+---
+
+## Nigel - Boy  
+![Harold](/assets/img/09162024/Nigel/Nigel.jpeg)  
+
+---
+
+## Arlene - Girl    
+![Harold](/assets/img/09162024/Arlene/Arlene01.jpeg)  
+
+---
+
+## Cindy - Girl    
+![Harold](/assets/img/09162024/Cindy/Cindy.jpeg)  
+
+---
+
+## Emily - Girl    
+![Harold](/assets/img/09162024/Emily/Emily.jpeg)  
+
+---
+
+## Katia - Girl    
+![Harold](/assets/img/09162024/Katia/Katia.jpeg)  
 
 ---
 
