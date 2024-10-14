@@ -29,35 +29,35 @@ Parents
 
 These adorable bundles of cuteness were born on September 16th. We currently have 2 boys and 4 girls looking for their forever homes. 
 
----
+
 
 ## Harold - Boy  
-![Harold](/assets/img/09162024/Harold/Harold.jpeg)  
+![Harold](/assets/img/09162024/Harold/Harold.jpg)  
 
 ---
 
 ## Nigel - Boy  
-![Harold](/assets/img/09162024/Nigel/Nigel.jpeg)  
+![Harold](/assets/img/09162024/Nigel/Nigel.jpg)  
 
 ---
 
 ## Arlene - Girl    
-![Harold](/assets/img/09162024/Arlene/Arlene01.jpeg)  
+![Harold](/assets/img/09162024/Arlene/Arlene01.jpg)  
 
 ---
 
 ## Cindy - Girl    
-![Harold](/assets/img/09162024/Cindy/Cindy.jpeg)  
+![Harold](/assets/img/09162024/Cindy/Cindy.jpg)  
 
 ---
 
 ## Emily - Girl    
-![Harold](/assets/img/09162024/Emily/Emily.jpeg)  
+![Harold](/assets/img/09162024/Emily/Emily.jpg)  
 
 ---
 
 ## Katia - Girl    
-![Harold](/assets/img/09162024/Katia/Katia.jpeg)  
+![Harold](/assets/img/09162024/Katia/Katia.jpg)  
 
 ---
 
