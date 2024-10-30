@@ -32,32 +32,32 @@ These adorable bundles of cuteness were born on September 16th. We currently hav
 
 
 ## Harold - Boy  
-![Harold](/assets/img/09162024/Harold/Harold.jpg)  
+![Harold](/assets/img/09162024/Harold/Harold01.jpg)  
 
 ---
 
 ## Nigel - Boy  
-![Harold](/assets/img/09162024/Nigel/Nigel.jpg)  
+![Harold](/assets/img/09162024/Nigel/Nigel01.jpg)  
 
 ---
 
 ## Arlene - Girl    
-![Harold](/assets/img/09162024/Arlene/Arlene01.jpg)  
+![Harold](/assets/img/09162024/Arlene/Arlene02.jpg)  
 
 ---
 
 ## Cindy - Girl    
-![Harold](/assets/img/09162024/Cindy/Cindy.jpg)  
+![Harold](/assets/img/09162024/Cindy/Cindy01.jpg)  
 
 ---
 
 ## Emily - Girl    
-![Harold](/assets/img/09162024/Emily/Emily.jpg)  
+![Harold](/assets/img/09162024/Emily/Emily01.jpg)  
 
 ---
 
 ## Katia - Girl    
-![Harold](/assets/img/09162024/Katia/Katia.jpg)  
+![Harold](/assets/img/09162024/Katia/Katia01.jpg)  
 
 ---
 
