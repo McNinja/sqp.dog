@@ -70,7 +70,7 @@ Video chat is available!
 Health guarantee  
 [Download our application form][1] / or we can email it to you  
 
-[1]:{{ site.url }}/assets/docs/SQP-Puppy-Application.docx
+[1]:https://sqp.dog/assets/docs/SQP-Puppy-Application.docx
 
 
 <h1 style="text-align: center;">
