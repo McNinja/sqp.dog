@@ -36,11 +36,6 @@ These adorable bundles of cuteness were born on September 16th. We currently hav
 
 ---
 
-## Nigel - Boy  
-![Harold](/assets/img/09162024/Nigel/Nigel005.jpg)  
-
----
-
 ## Cindy - Girl    
 ![Harold](/assets/img/09162024/Cindy/Cindy005.jpg)  
 
