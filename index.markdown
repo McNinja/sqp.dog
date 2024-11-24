@@ -41,11 +41,6 @@ These adorable bundles of cuteness were born on September 16th. We currently hav
 
 ---
 
-## Katia - Girl    
-![Harold](/assets/img/09162024/Katia/Katia005.jpg)  
-
----
-
 
 <h1 style="text-align: center;">
 Re-Homing Information
