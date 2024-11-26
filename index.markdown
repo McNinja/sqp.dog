@@ -18,7 +18,7 @@ Parents
 **Bio**: Full husky personality in a tiny package. Loves pets, will paw you for more. Parkour champ.  
 **Genetic Test**: Embark genetic tested for over 150 possible conditions and breed. F2X  
 
-![Father](/assets/main/bolder-father.jpg)  
+![Father](/assets/main/boulder-01.jpg)  
 **Father**: StoneQuarry Colorado Bolder Blue  
 **Weight**: 14 Pounds  
 **Bio**: Pomeranian in a husky suit. Would rather live in your lap rather than anywhere else.  
