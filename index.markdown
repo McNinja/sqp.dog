@@ -32,12 +32,12 @@ These adorable bundles of cuteness were born on September 16th. We currently hav
 
 
 ## Cindy - Girl    
-![Harold](/assets/img/09162024/Cindy/Cindy005.jpg)  
+![Harold](/assets/img/09162024/Cindy/Cindy006.jpg)  
 
 ---
 
 ## Emily - Girl    
-![Harold](/assets/img/09162024/Emily/Emily005.jpg)  
+![Harold](/assets/img/09162024/Emily/Emily006.jpg)  
 
 ---
 
