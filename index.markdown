@@ -30,14 +30,8 @@ Parents
 These adorable bundles of cuteness were born on September 16th. We currently have 2 boys and 4 girls looking for their forever homes. 
 
 
-
-## Cindy - Girl    
-![Harold](/assets/img/09162024/Cindy/Cindy006.jpg)  
-
----
-
 ## Emily - Girl    
-![Harold](/assets/img/09162024/Emily/Emily006.jpg)  
+![Emily](/assets/img/09162024/Emily/Emily006.jpg)  
 
 ---
 
