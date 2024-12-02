@@ -27,14 +27,6 @@ Parents
 
 ---
 
-These adorable bundles of cuteness were born on September 16th. We currently have 2 boys and 4 girls looking for their forever homes. 
-
-
-## Emily - Girl    
-![Emily](/assets/img/09162024/Emily/Emily006.jpg)  
-
----
-
 
 <h1 style="text-align: center;">
 Re-Homing Information
